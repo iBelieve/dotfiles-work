@@ -1,0 +1,6 @@
+# vscode: language=properties
+[user]
+	name = Michael Spencer
+	email = michael@lelander.com
+[init]
+	defaultBranch = master
